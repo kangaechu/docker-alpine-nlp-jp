@@ -1,4 +1,4 @@
-Name
+docker-alpine-nlp-jp
 ====
 
 Alpine Linuxの自然言語処理パッケージ Dockerfile
