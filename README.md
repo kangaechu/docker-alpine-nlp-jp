@@ -9,9 +9,9 @@ Dockerで日本語の自然言語処理関連ツールを実行するためのDo
 
 Docker HubからPullできます。
 ```
-$ docker pull kangaechu/docker-alpine-nlp-jp
+$ docker pull kangaechu/nlp-jp
 ```
-https://hub.docker.com/r/kangaechu/docker-alpine-nlp-jp/
+https://hub.docker.com/r/kangaechu/nlp-jp/
 
 ### 対応しているパッケージ
 
@@ -30,7 +30,7 @@ Docker
 イメージが1.5GBくらいあるので時間がかかります。
 
 ```bash
-$ docker run -it kangaechu/docker-alpine-nlp-jp /bin/sh
+$ docker run -it kangaechu/nlp-jp /bin/sh
 ```
 
 ## Licence
