@@ -35,7 +35,7 @@ $ docker run -it kangaechu/nlp-jp /bin/sh
 
 ## Licence
 
-[MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
+MIT
 
 ## Author
 
